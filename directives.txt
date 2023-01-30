@@ -1,1 +1,2 @@
 1. git init and create a file
+git commit -m 'comment' in order to create a commit
